@@ -1,0 +1,6 @@
+# GENERAL 
+> press "I/i"  to increase the speed.
+> press "D/d"  to decrease the speed.
+> The game continues untill exited by user.
+> Auto restarts the Game. 
+> Shows the Current Speed , Score and Highest score of the Session.
